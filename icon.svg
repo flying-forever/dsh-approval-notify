@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Approval bell">
+  <rect width="64" height="64" rx="14" fill="#20242c"/>
+  <path d="M32 14c-7.2 0-12 5.2-12 12.4v7.9l-3.4 6.2c-.8 1.5.3 3.3 2 3.3h26.8c1.7 0 2.8-1.8 2-3.3L44 34.3v-7.9C44 19.2 39.2 14 32 14z" fill="#ffba42"/>
+  <path d="M27 46.5a5 5 0 0 0 10 0z" fill="#ffba42"/>
+</svg>

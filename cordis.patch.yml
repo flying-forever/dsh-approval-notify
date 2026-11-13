@@ -1,0 +1,9 @@
+# dsh-approval-notify bundle patch.
+#
+# Host 半边（index.js）监听 approval/request 瀑布事件，只提醒、不作答；
+# 同时注册 /approval-notify/api/{settings,test} 三个同源路由。
+# Client 半边（client.js）通过 package.json 的 dsh.client 声明，
+# 在「设置 → 插件 → 审批提醒」里渲染两个开关（弹卡片 / 响铃）。
+- insert:
+    - id: approval-notify
+      name: '@local/dsh-approval-notify'

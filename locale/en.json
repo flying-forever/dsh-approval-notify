@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Approval Reminder",
+    "description": "Reminds you when DSH asks for tool approval: the top-right popup card and the sound can be toggled separately. Answering still happens in the DSH window."
+  }
+}
